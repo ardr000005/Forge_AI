@@ -84,7 +84,7 @@ Incoming Contract
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -115,7 +115,7 @@ cd Forge_AI
 
 ---
 
-## 🔧 Backend Setup
+##  Backend Setup
 
 ```bash
 cd forge_ai
@@ -134,7 +134,7 @@ OPENAI_MODEL=gpt-4o-mini
 
 ---
 
-### ▶️ Run Backend
+###  Run Backend
 
 ```bash
 uvicorn app.main:app --reload

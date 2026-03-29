@@ -219,7 +219,3 @@ GET  /api/contracts       → List contracts
 
 ---
 
-
-
-If you want next level (HIGH IMPACT):
-👉 I can add **GIF demo + badges + architecture diagram (this boosts judges score a LOT)**

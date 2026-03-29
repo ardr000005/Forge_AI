@@ -1,0 +1,4 @@
+forge_ai/.env
+forge_ai/seed_company.py
+forge_frontend/node_modules
+forge_frontend/package-lock.json

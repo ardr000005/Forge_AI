@@ -140,12 +140,12 @@ OPENAI_MODEL=gpt-4o-mini
 uvicorn app.main:app --reload
 ```
 
-👉 Backend: [http://localhost:8000](http://localhost:8000)
-👉 API Docs: [http://localhost:8000/docs](http://localhost:8000/docs)
+ Backend: [http://localhost:8000](http://localhost:8000)
+ API Docs: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
 
-## 🌐 Frontend Setup
+##  Frontend Setup
 
 ```bash
 cd forge_frontend
@@ -153,11 +153,11 @@ npm install
 npm start
 ```
 
-👉 Frontend: [http://localhost:3000](http://localhost:3000)
+ Frontend: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. Submit contract via UI
 2. Orchestrator triggers AI agents

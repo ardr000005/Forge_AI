@@ -11,7 +11,6 @@ and makes data-driven decisions — with a full audit trail.
 
 ## How to use
 
-1. **Seed your company data** — `POST /api/company/seed`
 2. **Submit a contract** — `POST /api/contract`
 3. **Run the pipeline** — `POST /api/run/{contract_id}`
 4. **View the report** — `GET /api/report/{contract_id}`
